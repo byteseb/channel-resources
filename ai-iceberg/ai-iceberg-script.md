@@ -1,7 +1,5 @@
 # The Artificial Intelligence Iceberg Explained
 
-Status: In progress
-
 # Tier 1
 
 ## Artificial Intelligence
